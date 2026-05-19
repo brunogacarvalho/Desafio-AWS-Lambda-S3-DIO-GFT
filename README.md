@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido durante o bootcamp **GFT - Fundamentos de Cloud com AWS**, realizado pela DIO.
 
-O objetivo foi automatizar o processamento de arquivos JSON utilizando **AWS Lambda** e **Amazon S3**, com os dados sendo registrados no **DynamoDB**. Para simular os serviços AWS localmente, foi utilizado o **LocalStack**.
+O objetivo foi mostrar o processo automatizado com arquivos JSON utilizando **AWS Lambda** e **Amazon S3**, com os dados sendo registrados no **DynamoDB**. Para simular os serviços AWS localmente, foi utilizado o **LocalStack**.
 
 ---
 
